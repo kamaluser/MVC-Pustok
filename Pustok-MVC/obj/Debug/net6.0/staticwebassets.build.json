@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hSY/pqVsPf4CKxu+ZwhvkCmfIjvBqNMqN96E8JHrh4w=",
+  "Hash": "9eTCEJd7EGPk5VxQRV7tTIOQWx5AI8n3/CLe5TT0DgU=",
   "Source": "Pustok-MVC",
   "BasePath": "_content/Pustok-MVC",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Pustok-MVC\\wwwroot",
       "Source": "Pustok-MVC",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Pustok-MVC.styles.css",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Pustok-MVC.styles.css",
       "SourceId": "Pustok-MVC",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "Pustok-MVC.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Pustok-MVC.styles.css"
+      "OriginalItemSpec": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Pustok-MVC.styles.css"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Pustok-MVC.bundle.scp.css",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Pustok-MVC.bundle.scp.css",
       "SourceId": "Pustok-MVC",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "Pustok-MVC.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Pustok-MVC.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Pustok-MVC.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\css\\main.css",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\css\\main.css",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "css/main.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\main.css"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\css\\plugins.css",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\css\\plugins.css",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "css/plugins.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\plugins.css"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\fonts\\fa-brands-400.eot",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\fonts\\fa-brands-400.eot",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "fonts/fa-brands-400.eot",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-brands-400.eot"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\fonts\\fa-brands-400.svg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\fonts\\fa-brands-400.svg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "fonts/fa-brands-400.svg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-brands-400.svg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\fonts\\fa-brands-400.ttf",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "fonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\fonts\\fa-brands-400.woff",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\fonts\\fa-brands-400.woff",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "fonts/fa-brands-400.woff",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-brands-400.woff"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\fonts\\fa-brands-400.woff2",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "fonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\fonts\\fa-brands-400d41d.eot",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\fonts\\fa-brands-400d41d.eot",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "fonts/fa-brands-400d41d.eot",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-brands-400d41d.eot"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\fonts\\fa-regular-400.eot",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\fonts\\fa-regular-400.eot",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "fonts/fa-regular-400.eot",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-regular-400.eot"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\fonts\\fa-regular-400.svg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\fonts\\fa-regular-400.svg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "fonts/fa-regular-400.svg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-regular-400.svg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\fonts\\fa-regular-400.ttf",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "fonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\fonts\\fa-regular-400.woff",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\fonts\\fa-regular-400.woff",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "fonts/fa-regular-400.woff",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-regular-400.woff"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\fonts\\fa-regular-400.woff2",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "fonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\fonts\\fa-regular-400d41d.eot",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\fonts\\fa-regular-400d41d.eot",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "fonts/fa-regular-400d41d.eot",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-regular-400d41d.eot"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\fonts\\fa-solid-900.eot",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\fonts\\fa-solid-900.eot",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "fonts/fa-solid-900.eot",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-solid-900.eot"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\fonts\\fa-solid-900.svg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\fonts\\fa-solid-900.svg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "fonts/fa-solid-900.svg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-solid-900.svg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\fonts\\fa-solid-900.ttf",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "fonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\fonts\\fa-solid-900.woff",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\fonts\\fa-solid-900.woff",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "fonts/fa-solid-900.woff",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-solid-900.woff"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\fonts\\fa-solid-900.woff2",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "fonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\fonts\\fa-solid-900d41d.eot",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\fonts\\fa-solid-900d41d.eot",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "fonts/fa-solid-900d41d.eot",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fa-solid-900d41d.eot"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\fonts\\Ionicons28b5.eot",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\fonts\\Ionicons28b5.eot",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "fonts/Ionicons28b5.eot",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Ionicons28b5.eot"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\fonts\\Ionicons28b5.svg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\fonts\\Ionicons28b5.svg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "fonts/Ionicons28b5.svg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Ionicons28b5.svg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\fonts\\Ionicons28b5.ttf",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\fonts\\Ionicons28b5.ttf",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "fonts/Ionicons28b5.ttf",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Ionicons28b5.ttf"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\fonts\\Ionicons28b5.woff",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\fonts\\Ionicons28b5.woff",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "fonts/Ionicons28b5.woff",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Ionicons28b5.woff"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.ttf",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.ttf",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "fonts/Material-Design-Iconic-Fontd1f1.ttf",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.ttf"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.woff",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.woff",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "fonts/Material-Design-Iconic-Fontd1f1.woff",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.woff"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.woff2",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.woff2",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "fonts/Material-Design-Iconic-Fontd1f1.woff2",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.woff2"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\bg-images\\best-seller-bg.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\bg-images\\best-seller-bg.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/bg-images/best-seller-bg.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\image\\bg-images\\best-seller-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\bg-images\\home-2-slider-1.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\bg-images\\home-2-slider-1.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/bg-images/home-2-slider-1.jpg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\image\\bg-images\\home-2-slider-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\bg-images\\home-2-slider-2.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\bg-images\\home-2-slider-2.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/bg-images/home-2-slider-2.jpg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\image\\bg-images\\home-2-slider-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\bg-images\\home-3-slider-1.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\bg-images\\home-3-slider-1.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/bg-images/home-3-slider-1.jpg",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\image\\bg-images\\home-3-slider-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\bg-images\\home-3-slider-2.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\bg-images\\home-3-slider-2.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/bg-images/home-3-slider-2.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\image\\bg-images\\home-3-slider-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\bg-images\\home-4-slider-1.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\bg-images\\home-4-slider-1.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/bg-images/home-4-slider-1.jpg",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\image\\bg-images\\home-4-slider-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\bg-images\\home-4-slider-2.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\bg-images\\home-4-slider-2.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/bg-images/home-4-slider-2.jpg",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\image\\bg-images\\home-4-slider-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\bg-images\\home-slider-1-ai.png",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\bg-images\\home-slider-1-ai.png",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/bg-images/home-slider-1-ai.png",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\image\\bg-images\\home-slider-1-ai.png"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\bg-images\\home-slider-2-ai.png",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\bg-images\\home-slider-2-ai.png",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/bg-images/home-slider-2-ai.png",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\image\\bg-images\\home-slider-2-ai.png"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\bg-images\\promo-banner-contained.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\bg-images\\promo-banner-contained.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/bg-images/promo-banner-contained.jpg",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\image\\bg-images\\promo-banner-contained.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\bg-images\\promo-banner-full.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\bg-images\\promo-banner-full.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/bg-images/promo-banner-full.jpg",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\image\\bg-images\\promo-banner-full.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\bg-images\\promo-banner-mid.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\bg-images\\promo-banner-mid.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/bg-images/promo-banner-mid.jpg",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\image\\bg-images\\promo-banner-mid.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\bg-images\\promo-banner-small.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\bg-images\\promo-banner-small.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/bg-images/promo-banner-small.jpg",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\image\\bg-images\\promo-banner-small.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\bg-images\\promo-banner-small-with-text.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\bg-images\\promo-banner-small-with-text.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/bg-images/promo-banner-small-with-text.jpg",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\image\\bg-images\\promo-banner-small-with-text.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\bg-images\\promo-banner-with-text.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\bg-images\\promo-banner-with-text.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/bg-images/promo-banner-with-text.jpg",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\image\\bg-images\\promo-banner-with-text.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\bg-images\\promo-banner-with-text-2.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\bg-images\\promo-banner-with-text-2.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/bg-images/promo-banner-with-text-2.jpg",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\image\\bg-images\\promo-banner-with-text-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\bg-images\\promo-banner-with-text-2--small.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\bg-images\\promo-banner-with-text-2--small.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/bg-images/promo-banner-with-text-2--small.jpg",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\image\\bg-images\\promo-banner-with-text-2--small.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\bg-images\\promo-banner-with-text-big.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\bg-images\\promo-banner-with-text-big.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/bg-images/promo-banner-with-text-big.jpg",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\image\\bg-images\\promo-banner-with-text-big.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\favicon.ico",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\favicon.ico",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/favicon.ico",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\image\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\icon\\author-logo.png",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\icon\\author-logo.png",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/icon/author-logo.png",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\image\\icon\\author-logo.png"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\icon\\eng-flag.png",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\icon\\eng-flag.png",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/icon/eng-flag.png",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\image\\icon\\eng-flag.png"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\icon\\germany-flag.png",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\icon\\germany-flag.png",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/icon/germany-flag.png",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\image\\icon\\germany-flag.png"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\icon\\payment.png",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\icon\\payment.png",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/icon/payment.png",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\image\\icon\\payment.png"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\icon\\quotation.png",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\icon\\quotation.png",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/icon/quotation.png",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\image\\icon\\quotation.png"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\logo.png",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\logo.png",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/logo.png",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\image\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\logo--footer.png",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\logo--footer.png",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/logo--footer.png",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\image\\logo--footer.png"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\others\\best-seller-author.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\others\\best-seller-author.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/others/best-seller-author.jpg",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\image\\others\\best-seller-author.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\others\\blog-grid-1.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\others\\blog-grid-1.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/others/blog-grid-1.jpg",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\image\\others\\blog-grid-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\others\\blog-grid-2.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\others\\blog-grid-2.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/others/blog-grid-2.jpg",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\image\\others\\blog-grid-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\others\\blog-grid-3.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\others\\blog-grid-3.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/others/blog-grid-3.jpg",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\image\\others\\blog-grid-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\others\\blog-grid-4.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\others\\blog-grid-4.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/others/blog-grid-4.jpg",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\image\\others\\blog-grid-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\others\\blog-img-big-1.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\others\\blog-img-big-1.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/others/blog-img-big-1.jpg",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\image\\others\\blog-img-big-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\others\\blog-img-big-2.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\others\\blog-img-big-2.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/others/blog-img-big-2.jpg",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\image\\others\\blog-img-big-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\others\\blog-img-big-3.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\others\\blog-img-big-3.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/others/blog-img-big-3.jpg",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\image\\others\\blog-img-big-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\others\\brand-1.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\others\\brand-1.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/others/brand-1.jpg",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\image\\others\\brand-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\others\\brand-2.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\others\\brand-2.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/others/brand-2.jpg",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\image\\others\\brand-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\others\\brand-3.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\others\\brand-3.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/others/brand-3.jpg",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\image\\others\\brand-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\others\\brand-4.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\others\\brand-4.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/others/brand-4.jpg",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\image\\others\\brand-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\others\\brand-5.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\others\\brand-5.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/others/brand-5.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\image\\others\\brand-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\others\\brand-6.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\others\\brand-6.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/others/brand-6.jpg",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\image\\others\\brand-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\others\\cat-gal-large.png",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\others\\cat-gal-large.png",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/others/cat-gal-large.png",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\image\\others\\cat-gal-large.png"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\others\\cat-gal-mid.png",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\others\\cat-gal-mid.png",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/others/cat-gal-mid.png",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\image\\others\\cat-gal-mid.png"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\others\\cat-gal-mid-2.png",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\others\\cat-gal-mid-2.png",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/others/cat-gal-mid-2.png",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\image\\others\\cat-gal-mid-2.png"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\others\\cat-gal-small.png",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\others\\cat-gal-small.png",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/others/cat-gal-small.png",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\image\\others\\cat-gal-small.png"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\others\\cat-gal-small-2.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\others\\cat-gal-small-2.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/others/cat-gal-small-2.jpg",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\image\\others\\cat-gal-small-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\others\\client-1.png",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\others\\client-1.png",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/others/client-1.png",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\image\\others\\client-1.png"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\others\\client-2.png",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\others\\client-2.png",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/others/client-2.png",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\image\\others\\client-2.png"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\others\\client-3.png",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\others\\client-3.png",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/others/client-3.png",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\image\\others\\client-3.png"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\others\\client-4.png",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\others\\client-4.png",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/others/client-4.png",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\image\\others\\client-4.png"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\others\\client-5.png",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\others\\client-5.png",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/others/client-5.png",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\image\\others\\client-5.png"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\others\\home-blog-1.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\others\\home-blog-1.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/others/home-blog-1.jpg",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\image\\others\\home-blog-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\others\\home-blog-2.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\others\\home-blog-2.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/others/home-blog-2.jpg",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\image\\others\\home-blog-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\others\\home-side-promo.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\others\\home-side-promo.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/others/home-side-promo.jpg",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\image\\others\\home-side-promo.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\products\\cart-product-1.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\products\\cart-product-1.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/products/cart-product-1.jpg",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\cart-product-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\products\\product-1.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\products\\product-1.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/products/product-1.jpg",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\product-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\products\\product-10.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\products\\product-10.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/products/product-10.jpg",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\product-10.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\products\\product-11.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\products\\product-11.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/products/product-11.jpg",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\product-11.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\products\\product-12.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\products\\product-12.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/products/product-12.jpg",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\product-12.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\products\\product-13.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\products\\product-13.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/products/product-13.jpg",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\product-13.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\products\\product-2.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\products\\product-2.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/products/product-2.jpg",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\product-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\products\\product-3.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\products\\product-3.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/products/product-3.jpg",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\product-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\products\\product-4.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\products\\product-4.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/products/product-4.jpg",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\product-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\products\\product-5.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\products\\product-5.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/products/product-5.jpg",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\product-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\products\\product-6.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\products\\product-6.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/products/product-6.jpg",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\product-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\products\\product-7.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\products\\product-7.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/products/product-7.jpg",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\product-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\products\\product-8.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\products\\product-8.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/products/product-8.jpg",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\product-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\products\\product-9.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\products\\product-9.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/products/product-9.jpg",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\product-9.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\products\\product-details-1.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\products\\product-details-1.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/products/product-details-1.jpg",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\product-details-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\products\\product-details-2.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\products\\product-details-2.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/products/product-details-2.jpg",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\product-details-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\products\\product-details-3.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\products\\product-details-3.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/products/product-details-3.jpg",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\product-details-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\products\\product-details-4.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\products\\product-details-4.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/products/product-details-4.jpg",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\product-details-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\image\\products\\product-details-5.jpg",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\image\\products\\product-details-5.jpg",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "image/products/product-details-5.jpg",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\image\\products\\product-details-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\js\\ajax-mail.js",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\js\\ajax-mail.js",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "js/ajax-mail.js",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\js\\ajax-mail.js"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\js\\custom.js",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\js\\custom.js",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "js/custom.js",
       "AssetKind": "All",
@@ -1974,10 +1974,29 @@
       "OriginalItemSpec": "wwwroot\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\js\\plugins.js",
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\js\\main.js",
       "SourceId": "Pustok-MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kamal\\Desktop\\Pustok-MVC\\Pustok-MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
+      "BasePath": "_content/Pustok-MVC",
+      "RelativePath": "js/main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\main.js"
+    },
+    {
+      "Identity": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\js\\plugins.js",
+      "SourceId": "Pustok-MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kamalrh\\Desktop\\MVC-Pustok\\Pustok-MVC\\wwwroot\\",
       "BasePath": "_content/Pustok-MVC",
       "RelativePath": "js/plugins.js",
       "AssetKind": "All",
